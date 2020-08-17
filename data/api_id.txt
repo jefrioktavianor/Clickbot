@@ -1,0 +1,2 @@
+api_id alphanumeric, 5-32 characters
+api_hash 
